@@ -1,0 +1,6 @@
+{
+  "name": "Trợ Lý Internet – Tin Học 6",
+  "description": "Ứng dụng trợ lý học tập môn Tin học 6 giúp học sinh trường THCS Quang Trung ôn tập bài học Internet theo tài liệu của cô Bùi Thị Phương Thanh.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
